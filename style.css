@@ -1,0 +1,18 @@
+#body {
+    background-color: burlywood;
+}
+
+.knappeDesign {
+    height: 50px;
+    width: 100px;
+    border-radius: 50%;
+    border: 3px solid orange;
+    background-color: rgb(236, 213, 183);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div {
+    font-size: x-large;
+    font-family: sans-serif;
+    
+}
